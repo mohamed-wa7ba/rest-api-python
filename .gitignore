@@ -1,0 +1,16 @@
+venv/
+.env
+*.pyc
+__pycache__/
+
+.DS_Store
+
+.idea/
+.vscode/
+
+*.log
+logs/
+
+
+.coverage
+htmlcov/
