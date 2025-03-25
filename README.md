@@ -52,8 +52,6 @@ my_project/
 ├── rest/                 # REST endpoints
 ├── models/               # Database models
 └── requirements.txt      # Dependencies
-<div style="background-color: #f0fdf4; padding: 15px; border-radius: 10px; border-left: 5px solid #16a34a;"> 💡 <strong>Tip:</strong> For production, use environment variables for sensitive data! </div> ```
-
 👨‍💻 About Me
     I'm Mohammed Wahba, a software developer with 5+ years of experience in building scalable and efficient applications. Currently, I serve as a Team Leader at Baianat, where I lead a talented team of developers to deliver high-quality software solutions.:
       Frontend Development: Nuxt.js, Vue.js, Angular, Svelte and React.
